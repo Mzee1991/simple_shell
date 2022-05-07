@@ -43,7 +43,7 @@ The shell handles command line input, including arguements, without the use of m
 
 ### Release History
 * 0.0.1 - First release - 07 May 2022
-* 0.0.2 - Second release - 18 May 2020
+* 0.0.2 - Second release - 18 May 2022
 
 ### About
 All files were created and compiled on `Ubuntu 20.04 LTS` using `GCC 4.8.4` with the following flags: `-Wall -Werror -Wextra -pedantic`
