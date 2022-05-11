@@ -50,4 +50,4 @@ All files were created and compiled on `Ubuntu 20.04 LTS` using `GCC 4.8.4` with
 
 ### Authors
 * John Mzee [Github](https://github.com/Mzee1991)
-* Derrick Mayiku Locha [Github](https://github.com/[])
+* Derrick Mayiku Locha [Github](https://github.com/DeroMal)
