@@ -1,4 +1,8 @@
-# Simple shell
+<p align="center">
+  <img src="https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png" alt="ALX Africa logo">
+</p>
+
+# Simple Shell Project 0x16.c - Sodash-
 
 ### Overview
 `shell` is a UNIX command interpreter that replicates core functionalities of the `sh` shell.
