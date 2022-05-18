@@ -48,6 +48,10 @@ The shell handles command line input, including arguements, without the use of m
 ### About
 All files were created and compiled on `Ubuntu 20.04 LTS` using `GCC 4.8.4` with the following flags: `-Wall -Werror -Wextra -pedantic`
 
-### Authors
+### Authors & Copyrights
 * John Mzee [Github](https://github.com/Mzee1991)
 * Derrick Mayiku Locha [Github](https://github.com/DeroMal)
+
+## More information
+
+**Sodash** is a simple shell unix command interpreter that is part of the alx low level programming module at ALX Software Engineering School and is intended to emulate the basics **sh** shell. All the information given in this README is based on the **sodash** and **bash** man (1) pages.
